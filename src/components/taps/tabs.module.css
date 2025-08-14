@@ -1,0 +1,39 @@
+.tabs {
+  max-width: 1200px;
+  font-family: 'Pacifico', cursive !important;
+}
+
+.iconimage {
+  width: 50px;
+  height: 50px;
+}
+
+tbody {
+  font-family: 'Pacifico', cursive !important;
+  border: none;
+}
+
+.noborderTable {
+  border-collapse: collapse;
+  border: none;
+  background-color: #282c34;
+}
+
+.noborderTable th,
+.noborderTable td {
+  border: none;
+  padding: 8px 12px;
+}
+
+/* Mobile adjustments */
+@media (max-width: 480px) {
+  .iconimage {
+    width: 30px;
+    height: 30px;
+  }
+  .noborderTable th,
+  .noborderTable td {
+    padding: 4px 6px;
+    font-size: 12px;
+  }
+}
