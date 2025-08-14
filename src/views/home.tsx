@@ -84,7 +84,7 @@ export default function Home() {
    <br />
 
       <div style={{ position: "relative" }}>
-        <input style={{ color: theme ? "white" : "black", backgroundColor: theme ? "#fff" :  "#282c34fa" }}
+        <input style={{ color: theme ? "black" : "white", backgroundColor: theme ? "#fff" :  "#282c34fa" }}
           maxLength={30}
           className={homestyle.search}
           type="text"
