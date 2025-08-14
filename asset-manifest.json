@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task-4-live-weather-app/static/css/main.91e28fea.css",
+    "main.js": "/task-4-live-weather-app/static/js/main.fb625e89.js",
+    "static/js/453.98c80408.chunk.js": "/task-4-live-weather-app/static/js/453.98c80408.chunk.js",
+    "index.html": "/task-4-live-weather-app/index.html",
+    "main.91e28fea.css.map": "/task-4-live-weather-app/static/css/main.91e28fea.css.map",
+    "main.fb625e89.js.map": "/task-4-live-weather-app/static/js/main.fb625e89.js.map",
+    "453.98c80408.chunk.js.map": "/task-4-live-weather-app/static/js/453.98c80408.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91e28fea.css",
+    "static/js/main.fb625e89.js"
+  ]
+}
